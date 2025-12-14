@@ -1,6 +1,6 @@
 import axios from 'axios';
-  
-const BASE_URL = 'https://zenfinity-intern-api-104290304048.europe-west1.run.app/api';
+
+const BASE_URL = '/api';
 
 export const ALLOWED_IMEIS = ['865044073967657', '865044073949366'];
 
